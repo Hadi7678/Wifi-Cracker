@@ -1,6 +1,6 @@
 # Wifi-Cracker
 
-echo "# remaja-tangguh.git.Wifi-Cracker">> README.md
+echo "# Wifi-Cracker">> README.md
 git init
 git add README.md
 git commit -m "first commit"
